@@ -1,0 +1,10 @@
+plumes premisse de la regle r15 ok
+vole premisse de la regle r16 echec
+pond_oeufs premisse de la regle r16 echec
+les regles declenchees :['r15', 'r16']
+nage premisse de la regle r11 ok
+noir_et_blanc premisse de la regle r11 ok
+non vole premisse de la regle r11 ok
+les regles declenchees :['r11']
+{'plumes': -1, 'non vole': -1, 'nage': -1, 'noir_et_blanc': -1, 'mange_herbe': -1, 'brun': -1, 'dents_pointues': -1, 'griffes': -1, 'oiseau': 'r15', 'pingouin': 'r11'}
+but atteint !!
